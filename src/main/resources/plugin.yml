@@ -1,0 +1,7 @@
+name: ObsidianAPI
+version: '${project.version}'
+main: com.api.ObsidianAPI
+api-version: '1.21'
+commands:
+  obsidian:
+    description: Obsidian API Main Command
